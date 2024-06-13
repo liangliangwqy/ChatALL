@@ -1,6 +1,6 @@
 <div align="center">
    <img src="src/assets/logo-cover.png" width=256></img>
-   <p><strong>同时与所有 AI 机器人聊天，找到最佳答案</strong></p>
+   <p><strong>与所有 AI 机器人同时聊天，找到最佳答案</strong></p>
 
 [Deutsch](README_DE-DE.md) | [English](README.md) | [Español](README_ES-ES.md) | [Français](README_FR-FR.md) | [Italian](README_IT-IT.md) | [日本語](README_JA-JP.md) | [한국어](README_KO-KR.md) | [Русский](README_RU-RU.md) | [Tiếng Việt](README_VI-VN.md) | 简体中文
 
@@ -13,8 +13,7 @@
 ![Screenshot](screenshots/screenshot-1.png?raw=true)
 
 ## 功能
-
-基于大型语言模型（LLMs）的 AI 机器人非常神奇。然而，它们的行为可能是随机的，不同的机器人在不同的任务上表现也有差异。如果你想获得最佳体验，不要一个一个尝试。ChatALL（中文名：齐叨）可以把一条指令同时发给多个 AI，帮助您发现最好的回答。你需要做的只是[下载、安装](https://github.com/sunner/ChatALL/releases)和提问。
+AI机器人基于大型语言模型(LLMs)的技术是非常神奇的。然而，它们的行为可能具有一定的随机性，不同的机器人在不同的任务中表现会有所差异。如果您希望获得最佳体验，请不要逐个尝试每个机器人。ChatALL（中文名：齐叨）可以将一条指令同时发送给多个AI，帮助您找到最佳的回答。您只需要[下载、安装](https://github.com/sunner/ChatALL/releases)并提问即可。
 
 ### 这是你吗？
 
